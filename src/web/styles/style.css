@@ -1,0 +1,79 @@
+﻿.navbar-text {
+    color: #4b7bbd; 
+    font-size:200%;
+}
+
+.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+hr {
+    margin-top: 0;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+}
+
+.navbar-nav li {
+    float: none;
+    display: inline-block;
+}
+.body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    padding-left: 10%;
+    padding-right: 10%;
+	min-height: 700px;
+}
+
+#banner {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon-bar {
+  width: 22px;
+  height: 2px;
+  background-color: black;
+  border-radius: 1px;
+}
+
+#least li {
+    margin:20px;
+}
+
+.desoslide-wrapper div {
+	margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fotorama__caption {
+	text-align:center;
+}
+
+.signature {
+	color: #4b7bbd; 
+    font-size:150%;
+	text-align:center;
+	font-family: 'Great Vibes', cursive;
+	margin-bottom: 20px;
+}
+
+.calendar {
+	text-align:center;
+}
+
+.event{
+	margin-bottom: 20px;
+}
+
+.event-name {
+	color: #4b7bbd; 
+    font-size:150%;
+	font-family: 'Great Vibes', cursive;
+}
